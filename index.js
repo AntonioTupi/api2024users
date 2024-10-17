@@ -1,3 +1,4 @@
+//index
 const express = require('express');
 const app = express();
 const userRoutes = require('./routes/userRoutes');  // Importa as rotas de usuários

@@ -1,3 +1,4 @@
+//controllers/userController
 const userModel = require('../models/userModel');  // Importa o model para interagir com o banco
 
 // Função para lidar com a requisição de listagem de usuários
